@@ -124,7 +124,7 @@ others  → 0
 
 ## 👨‍💻 Author
 
-Developed by **Ishaan Tripathi** along with my team
+Developed by **Sachin Tripathi** along with my teammates :- ** Riddhisha Srivastava, Anshika Mishra, Ishaan Tripathi**
 
 Contributions, forks, and improvements are welcome!
 
